@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactTest/static/css/main.073c9b0a.css",
-    "main.js": "/ReactTest/static/js/main.8b2d5c9d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/ReactTest/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/ReactTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ReactTest/static/css/main.ea19a4e1.css",
+    "main.js": "/ReactTest/static/js/main.7bdc605f.js",
     "index.html": "/ReactTest/index.html",
-    "main.073c9b0a.css.map": "/ReactTest/static/css/main.073c9b0a.css.map",
-    "main.8b2d5c9d.js.map": "/ReactTest/static/js/main.8b2d5c9d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/ReactTest/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/icon-slider.svg": "/ReactTest/static/media/icon-slider.cbca35e0d11c560ba351.svg",
+    "static/media/pattern-circles.svg": "/ReactTest/static/media/pattern-circles.9f6ed14bb3b0084b05a9e72350bf40e4.svg",
+    "static/media/bg-pattern.svg": "/ReactTest/static/media/bg-pattern.76d3fa7ddce078ad96b5c4ee2d160780.svg",
+    "static/media/icon-check.svg": "/ReactTest/static/media/icon-check.83c38a48815855ecc2d7e233514a2a7d.svg",
+    "main.ea19a4e1.css.map": "/ReactTest/static/css/main.ea19a4e1.css.map",
+    "main.7bdc605f.js.map": "/ReactTest/static/js/main.7bdc605f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8b2d5c9d.js"
+    "static/css/main.ea19a4e1.css",
+    "static/js/main.7bdc605f.js"
   ]
 }
